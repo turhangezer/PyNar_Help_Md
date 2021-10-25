@@ -36,6 +36,36 @@
 
 ![bitti](https://user-images.githubusercontent.com/56628866/137800570-faedce77-7542-4da7-aaa0-07306513b0cf.png)
 
+### Linux
+
+32 bit veya 64 bit Debian tabanlı bir Linux dağıtımı gereklidir(Ubuntu, Linux Mint, Pardus, ...). Bu rehberde Pardus kullanılmaktadır.
+
+1. [www.pynar.org/releases/setup/](https://www.pynar.org/releases/setup/) adresine gidin.
+
+2. Pynar.deb'e tıklayarak kurulum uygulamasını indiriniz.
+
+3. Birlikte aç seçeneğini seçerek indirme işlemi bittiğinde kurulumun başlamasını sağlayabilirsiniz. Eğer bu dosyayı kaydet seçeneğini seçerseniz kurulumu dosyanın indirildiği dizinden kendiniz başlatmanız gerekir. Seçiminizi yaptıktan sonra tamam butonuna tıklayın.
+
+![birlikte aç](https://user-images.githubusercontent.com/56628866/138751128-e3279886-52d8-47f8-9b91-9aa0bdea68f9.png)
+
+4. İndirme işlemi bittiğinde karşınıza bu ekran gelecektir. Yükle butonuna basarak kurulum işlemine başlayabilirsiniz.
+
+![Ekran Görüntüsü (86)](https://user-images.githubusercontent.com/56628866/138751536-970eaea9-158f-4b42-90c9-e5e253e0631a.png)
+
+5. Kuruluma başlamak için yönetici parolanızı girmeniz gerekiyor. Şifrenizi girdikten sonra kimlik doğrula butonuna tıklayın.
+
+![parola](https://user-images.githubusercontent.com/56628866/138752234-9536806e-23e1-4d11-b42a-d44e1637fbca.png)
+
+6. Kurulum yapılırken bir süre bekleyin.
+
+![yükleniyor](https://user-images.githubusercontent.com/56628866/138751824-9b662fff-ae4b-4c02-aa01-dcbeb5469101.png)
+
+7. İşlem başarıyla tamamlandı yazısını gördüğünüzde kurulum penceresini kapatabilirsiniz.
+
+8. Eğer uygulama kısayolunu masaüstünde göremiyorsanız ekranınızın sol altındaki menüde 'pynar' aramasını yaparak uygulamayı bulabilirsiniz.
+
+![pynar ara](https://user-images.githubusercontent.com/56628866/138755224-59888da8-4a28-41ca-a0f6-509e1d0875b9.png)
+
 ## 1.4 Kaldırma
 
 ### Windows
@@ -63,13 +93,6 @@
 6. Kaldırma işlemi tamamlandı.
 
 ![başarıyla kaldırıldı](https://user-images.githubusercontent.com/56628866/137806143-41a91c55-cc99-46d6-8009-38d54c6ad4d2.png)
-
-
-
-
-
-
-
 
 
 
