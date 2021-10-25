@@ -1,5 +1,7 @@
 # 1.Kurulum
 
+## 1.1 Kurulum Rehberi
+
 ### Windows
 
 ---
@@ -66,7 +68,23 @@
 
 ![pynar ara](https://user-images.githubusercontent.com/56628866/138755224-59888da8-4a28-41ca-a0f6-509e1d0875b9.png)
 
-## 1.4 Kaldırma
+## 1.2 Sistem gereksinimleri
+
+#### Windows 
+
+32 bit veya 64 bit Windows 7,8,10,11 
+4 GB RAM
+Diskte 250 MB boş yer
+
+#### Linux
+
+32 bit veya 64 Bit Debian tabanlı bir linux dağıtımı (Ubuntu, Linux Mint, Pardus ..)
+4 GB RAM
+Diskte 250 MB boş yer.
+
+Pynar Editör Windows versiyonunun içinde isteğe bağlı olarak Python 3.X sürümleri de sisteme kurulmaktadır.
+
+## 1.3 Kaldırma
 
 ### Windows
 
@@ -94,6 +112,7 @@
 
 ![başarıyla kaldırıldı](https://user-images.githubusercontent.com/56628866/137806143-41a91c55-cc99-46d6-8009-38d54c6ad4d2.png)
 
+### Linux
 
 
 
