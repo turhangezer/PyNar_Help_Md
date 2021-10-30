@@ -94,16 +94,25 @@ Fakat zaten kayıtlı olan bir dosyanın üzerinde değişiklik yaptıysanız do
 
 ![image](https://user-images.githubusercontent.com/56628866/139534645-dc40b1a6-c407-4ef9-bc7c-8d4757c21610.png)
 
+**Yazdır** butonu editörde yazılan kodun bir yazıcı aracılığıyla çıktısının alınmasını sağlar.
 
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139534781-50082d6b-c9e5-42e5-8c45-b4d2859e5392.png)
 
+**Geri Al** butonu yaptığınız değişiklikleri adım adım geri alır. Her tıkladığınızda yaptığınız bir değişiklik geri alınır.
 
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139534934-ec6ca4a5-a078-4fd1-ad51-62af27194f86.png)
 
+**İleri Al** butonu \"Geri Al\" butonu sildiğiniz değişlikleri adım adım tekrar yazar. İleri Al butonu sadece Geri al butonu ile silinenleri geri getirebilir.
 
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139534995-e24d6a27-e702-42d7-9001-4431f13ef077.png)
 
+**Yakınlaştır** butonu editörde yazdığınız kodun boyutunu arttırır.
 
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139535251-ce031c5c-0d7e-4d45-a004-a4b76eba96c3.png)
 
+**Uzaklaştır** butonu editörde yazdığınız kodun boyutunu azaltır.
 
-
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139535309-620a37fa-8929-4f9c-9335-824b81d93aec.png)
 
 
 
