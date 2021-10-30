@@ -6,9 +6,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;1.2 Sistem Gereksinimleri
 
-### &nbsp;&nbsp;&nbsp;&nbsp;1.3 Python Sürümü
-
-### &nbsp;&nbsp;&nbsp;&nbsp;1.4 Kaldırma
+### &nbsp;&nbsp;&nbsp;&nbsp;1.3 Kaldırma
 
 ## 2.Başlarken
 
