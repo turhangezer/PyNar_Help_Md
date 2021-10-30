@@ -6,7 +6,7 @@
 
 Uygulamayı çalıştırdığınızda karşınıza çıkacak ilk pencere yukarıda görünen penceredir. Pencerenin sol yarısında konumlanmış olan butonlar şu işe yarar;
 
-**Örnek Uygulama:** Bu buton Python öğrenmeye başlamanız için hazırlanmış, içinde programlama dillerinin geleneksel başlangıç kodu olan \"Merhaba Dünya\" çıktısını veren, bir satır kod bulunan hazır bir kod penceresi açar. Kodu değiştirebilir ve Python öğrenmeye başlayabilirsiniz.
+**Örnek Uygulama:** Bu buton Python öğrenmeye başlamanız için hazırlanmış, içinde programlama dillerinin geleneksel başlangıç kodu olan \"Merhaba Dünya\" çıktısını veren, bir satır kod bulunan hazır bir kod penceresi açar. Kodu çalıştırabilir, değiştirebilir ve Python öğrenmeye başlayabilirsiniz.
 
 **Yeni:** Bu buton boş bir Python dosyası oluşturur.
 
