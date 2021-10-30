@@ -114,6 +114,25 @@ Fakat zaten kayıtlı olan bir dosyanın üzerinde değişiklik yaptıysanız do
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139535309-620a37fa-8929-4f9c-9335-824b81d93aec.png)
 
+**Buk Değiştir** butonu kod içinde aradığınız bir ifadeyi bulmanızı ve isteğinize bağlı olarak değiştirmenizi sağlar.
+
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139535633-9168e172-3597-4e3f-9069-e0159866bd23.png)
+
+Aramak istediğiniz ifadeyi kutucuğa yazdığınızda bulunan ilk ifade işaretlenecektir. Aynı ifadenin geçtiği farklı yerleri de görmek için \"Bul\" butonnuna basın.
+
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139536288-1a1cd0aa-e84c-4e10-93f4-a9d7b9ed6d70.png)
+
+Aynı pencerede yer alan \"Değiştir\" sekmesinde ise ifadeleri teker teker ya da topluca bulup değiştirebilirsiniz. Örneğin:
+
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139536444-744c2da0-dc3a-4cbc-ad5e-73949ba005e0.png)
+
+Tümünü değiştir butonuna tıklandığında \"Admin\" olan tüm ifadeler \"YeniAdmin\" olarak değiştirelecek.
+
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139536486-e84cedca-ffc7-4d0c-843c-a05f985aabc0.png)
+
+
+
+
 
 
 
