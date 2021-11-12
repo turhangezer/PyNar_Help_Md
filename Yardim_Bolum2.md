@@ -22,7 +22,7 @@ Pencerenin sağ yarısında ise **Son Kullanılan Dosyalar** başlığı altınd
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139529341-577120de-964c-4c04-bca9-74b12ea2060d.png)
 
-Butona tıkladıktan sonra kod penceremiz karşımıza çıkacaktır. Kendi kodunuzu yazmaya başlayabilirsiniz.
+Butona tıkladıktan sonra kod penceresi karşınıza çıkacaktır. Kendi kodunuzu yazmaya başlayabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/56628866/139529474-cc19bcc2-d75f-4933-a912-229f5b349adf.png)
 
@@ -54,11 +54,11 @@ Editörün üst kısmında bazı sekmeler ve işlevli butonlar bulunduran bir me
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139533046-11cf15bc-3191-4a90-b1b5-e8edaf936747.png)
 
-Açmak istediğimiz dosyayı seçtikten sonra aç butonuna tıklıyoruz.
+Açılmak istenilen dosyayı seçtikten sonra aç butonuna tıklayın.
 
 ![image](https://user-images.githubusercontent.com/56628866/139533081-70d55180-3355-4498-9657-c9a2196a02af.png)
 
-Dosyayı istediğimiz gibi değiştirebilir veya çalışmamıza kaldığımız yerden devam edebiliriz.
+Dosyayı istenilen gibi değiştirebilir veya çalışmaya kalınan yerden devam edebilebilir.
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139533112-960d618b-9031-4f32-a703-4d97c736e3ff.png)
 
@@ -88,7 +88,7 @@ Fakat zaten kayıtlı olan bir dosyanın üzerinde değişiklik yaptıysanız do
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139534521-a3680af4-808f-44af-9a18-3dd863c623bd.png)
 
-\"Merhaba Dünya\" yazdıran kodumuzu değiştirdik fakat onun silinmesini istemiyoruz. Değiştirilmiş dosyamızın adını değiştirip farklı kaydettiğimizde yeni dosyamız eski dosyamızı etkilemeden kaydedilecektir.
+\"Merhaba Dünya\" yazdıran kod değiştirildi fakat değiştirilmiş dosyanın adı değiştirilip farklı kaydedildiğinde yeni dosya eski dosyayı etkilemeden kaydedilecektir.
 
 ![image](https://user-images.githubusercontent.com/56628866/139534560-16dc4e8f-c98c-4e30-bff9-3d30ee59577f.png)
 
