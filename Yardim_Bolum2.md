@@ -114,7 +114,7 @@ Fakat zaten kayıtlı olan bir dosyanın üzerinde değişiklik yaptıysanız do
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139535309-620a37fa-8929-4f9c-9335-824b81d93aec.png)
 
-**Buk Değiştir** butonu kod içinde aradığınız bir ifadeyi bulmanızı ve isteğinize bağlı olarak değiştirmenizi sağlar.
+**Bul Değiştir** butonu kod içinde aradığınız bir ifadeyi bulmanızı ve isteğinize bağlı olarak değiştirmenizi sağlar.
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139535633-9168e172-3597-4e3f-9069-e0159866bd23.png)
 
@@ -130,10 +130,35 @@ Tümünü değiştir butonuna tıklandığında \"Admin\" olan tüm ifadeler \"Y
 
 ![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/56628866/139536486-e84cedca-ffc7-4d0c-843c-a05f985aabc0.png)
 
+İşaretli buton tıklandığında Python Yorumlayısı(Python Interpreter) açılır.
 
+![image](https://user-images.githubusercontent.com/56628866/141464329-7b3e9f30-7554-4e10-8407-ab679ae71f3a.png)
 
+#### 2.3.1.1 Ayalar Sekmesi
 
+Ayalar butonuna tıklandığında karşınıza editörde kullanılan yazı tipini ve boyutunu değiştirebileceğiniz, kullanım verilerinizi görüp, silebileceğiniz bir pencere açılır.
 
+![139532096-74f54990-8b87-41ad-88c6-9a36899318d1](https://user-images.githubusercontent.com/56628866/141464939-8d054011-b238-4bef-a6d2-c76e2d8918ea.png)
+
+İsteğe bağlı olarak editörün ya da yazılan kodu yazı tipi ve boyutu değişitirilebilir. Tab boşluğunun büyüklüğü ayarlanabilir. kullanıcı verilerinin kaydedilip kaydedilmeyeceği seçilebilir, veriler silinebilir veya dosyanın konumuna gidilip incelenebilir. 
+
+![image](https://user-images.githubusercontent.com/56628866/141465165-aa10ec9a-549e-48cc-bf0d-5773a7c69164.png)
+
+Değiştirmek istediğiniz alanın yanında bulunan değiştir butonuna tıklandığında karşınıza bilgisayarınızadaki yüklü olan fontları görebildiğiniz bir ayarlama penceresi çıkar. İstediğiniz ayarlamaları yaptıktan sonra \'Tamam\' butonuna basarak pencereyi kapatabilirsiniz.
+
+![image](https://user-images.githubusercontent.com/56628866/141465503-2b620b27-fa3a-4244-9260-054567cb573c.png)
+
+İstenilen değişikler yapıldıktan sonra \'Tamam\' butonuna tıklanır. Değişikler editör yeniden başlatıldığında geçerli olacaktır.
+
+![image](https://user-images.githubusercontent.com/56628866/141467769-4e501ae4-a4a9-4898-b46a-90c303866f86.png)
+
+**Paket Yöneticisi** butonuna tıklandığında python dilinde içinde hazır fonksiyonlar bulunduran paketleri bilgisayarınıza kurabilirsiniz ve bilgisayarınızda kurulu olan paketleri görebilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141473258-16e46fdb-5634-4d39-a7d1-1da68b83a278.png)
+
+Kurmak istediğiniz paketin ismini yazıp \'PyPl'dan Paket Bul\' butonuna basın. Paket bulunduktan sonra \'kur\' butonuna basın. Kurulum sorunsuz bir şekilde gerçekleştiğinde indirme başarılı ekranı karşınıza gelecektir.
+
+![image](https://user-images.githubusercontent.com/56628866/141472911-b8d22e87-0766-42c4-a6a6-c1be74beea4a.png)
 
 
 
