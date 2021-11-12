@@ -161,5 +161,33 @@ Kurmak istediğiniz paketin ismini yazıp \'PyPl'dan Paket Bul\' butonuna basın
 ![image](https://user-images.githubusercontent.com/56628866/141472911-b8d22e87-0766-42c4-a6a6-c1be74beea4a.png)
 
 
+#### 2.3.1.3 Bulut Sekmesi
+#### 2.3.1.4 Yardım Sekmesi
+
+
+### 2.3.2 Sol Menü
+
+#### 2.3.2.1 Ana Menü ve Alt Menülere geçiş
+Sol menüde ana konu başlıkları bulunur.Öğrenmek istediğiniz konuya tıkladığınızda alt konu başlıklarını içeren bir menü açılır.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141476230-f4a94132-3223-4473-9a70-25c809bc04de.png)
+
+Konu başlığının yanında bulunan \'+\' butonuna tıkladığınızda alt menülere ulaşabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141477189-a58dd3c4-450c-4ad3-bdbe-5b7a27b905e2.png)
+
+#### 2.3.2.2 Sürükle-Bırak Kod blokları
+
+Öğrenmek istediğiniz konu başlığının alt menülerinde konuyla ilgili örnek kodlara ulaşabilirsiniz. istediğiniz koda basılı tutup kod penceresine sürüklerseniz örnekteki hazır kod bloğunu görebilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141477797-7090a6a6-37d7-4065-b689-3a392ceabd31.png)
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141477847-38d416f8-3c2f-4843-ba82-3998fcb9ac20.png)
+
+
+
+
+
+
 
 
