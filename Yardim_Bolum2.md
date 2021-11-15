@@ -204,6 +204,72 @@ Sohbet robotu penceresinin sağ üst köşesinde bulunan ok işaretine tıklayar
 
 ![asdfag](https://user-images.githubusercontent.com/56628866/141770926-e06d55a7-a05a-41d6-9b83-da2cc9684b7e.png)
 
+#### 2.3.3.2. Sohbet Robotuna Python Dili İle İlgili Soru Sorma
+
+Öğrenmek istediğiniz konuyu açık bir şekilde mesaj kutusuna yazdığınızda sohbet robotu konuyla ilgili bilgileri verecektir.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141772567-93682582-ce66-44a2-b942-22b1bc0e8bef.png)
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141772744-d7dd748a-9872-48b7-91e7-a9d9645c6ce0.png)
+
+#### 2.3.3.3 Sohbet Robotuna Emoji Gönderme
+
+Sohbet robotuna emoji göönderebilirsiniz. Mesaj kutucuğunun solunda bulunan **Gülen yüz** emojisine tıklayarak tüm emojilere ulaşabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141773249-344e0eb0-fac7-4ff3-ab66-9daf8c7410b3.png)
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141773596-d1f4b127-cae0-43f6-aa42-e852965d1186.png)
+
+İstediğiniz emojiyi seçtikten sonra **Enter**'a basarak mesajınızı yollayabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141776868-1f083a10-09bc-4575-a3a1-ce9189e4e9c2.png)
+
+#### 2.3.3.4 Sohbeti Silmek
+
+Sohbet penceresini temizlemek için mesaj kutusunun sağında bulunan çöp kutusu kutusuna tıklayarak sohbeti sil seçeneğine tıklayabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141777852-99b08a06-6bbf-4f06-b4ce-8b8146fe3724.png)
+
+Sohbet penceresindeki tüm mesajlar silinecektir.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141777954-75a167e1-b62d-43ac-beaa-d0aa6b15f956.png)
+
+### 2.3.4 Hata Listesi penceresi
+
+#### 2.3.4.1 Hata Listesi penceresinin tanıtımı
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
