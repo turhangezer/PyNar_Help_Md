@@ -236,18 +236,53 @@ Sohbet penceresindeki tüm mesajlar silinecektir.
 
 ### 2.3.4 Hata Listesi penceresi
 
-#### 2.3.4.1 Hata Listesi penceresinin tanıtımı
+#### 2.3.4.1 Hata Listesi Penceresinin Tanıtımı
 
+Hatalı bir kodu çalıştırdığınızda PyNar editörün alt kısmında koddaki hataları içeren bir liste gözükücektir.
+Hata mesajı sütununda hatanızın ne olduğu yazar. Dosya sütununda ise hatanın hangi dosyada bulunduğu yazar.
+Satır sütununda ise hatanın editörde kaçıncı satırda olduğunu görebilirsiniz.
 
+![asdfag](https://user-images.githubusercontent.com/56628866/141796379-af029852-8bae-497b-a950-ee05d1b4b3cc.png)
 
+#### 2.3.4.1 Hata Listesine Tıklayarak Hata Satırını Öğrenme
 
+Hata listesinden görmek istediğiniz hataya tıklarsanız hatanın olduğu satırın altı kırmızı ile çizilecektir.
 
+![image](https://user-images.githubusercontent.com/56628866/141797302-43caf708-3af4-4bdd-9ff5-758fb448cd6c.png)
 
+## 2.4 Klavye Kısayolları
 
+### 2.4.1 Kes (Ctrl+X)
 
+Kes işlemi \'CTRL\' ve \'x\' tuşlarına aynı anda basılarak yapılır. Seçili metin bulunduğu yerden silinir ve kopyalanır.
 
+![image](https://user-images.githubusercontent.com/56628866/141798157-f10a4744-cebe-4ad5-919a-0bebc6e0f8c9.png)
 
+![image](https://user-images.githubusercontent.com/56628866/141798588-6789dfaa-3be8-4fae-b05f-6be78695280c.png)
 
+### 2.4.2 Yapıştır (Ctrl+V)
+
+Yapıştır işlemi \'CTRL\' ve \'v\' tuşlarına aynı anda basılarak yapılır. Önceden kopyalanmış bir metni imlecinizin bulunduğu yere yapıştırır.
+
+![image](https://user-images.githubusercontent.com/56628866/141798806-568fff38-03bf-4335-9110-5d027fdbbd26.png)
+
+![image](https://user-images.githubusercontent.com/56628866/141798857-78e1784b-e9b0-400e-a4be-f37b7e42532c.png)
+
+### 2.4.3 Geri Al (Ctrl+Z)
+
+Geri Al işlemi \'CTRL\' ve \'z\' tuşlarına aynı anda basılarak yapılır. Yapılan değişiklikleri sondan başlayarak adım adım geri alır. Örnekte 7. satıra yapıştırılan bir metin ctrl+z ile geri alınıyor.
+
+![image](https://user-images.githubusercontent.com/56628866/141799099-2097fec6-e8f1-4083-8a12-2c66cb9ed7fb.png)
+
+![image](https://user-images.githubusercontent.com/56628866/141799197-f895ddf0-624c-4239-9dd1-8d7bdf673718.png)
+
+### 2.4.4. Yorum Satırı haline getir (Ctrl+K)
+
+Geri Al işlemi \'CTRL\' ve \'k\' tuşlarına aynı anda basılarak yapılır. Seçili satırları Python yorum satırı haline getirir.
+
+![image](https://user-images.githubusercontent.com/56628866/141799821-383416e5-7fbd-419a-a82f-eefe6679fa80.png)
+
+![image](https://user-images.githubusercontent.com/56628866/141799866-7cdf60b2-907c-492d-a7b0-e17b87f81475.png)
 
 
 
