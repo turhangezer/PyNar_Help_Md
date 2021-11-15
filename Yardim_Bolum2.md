@@ -167,7 +167,7 @@ Kurmak istediğiniz paketin ismini yazıp \'PyPl'dan Paket Bul\' butonuna basın
 
 ### 2.3.2 Sol Menü
 
-#### 2.3.2.1 Ana Menü ve Alt Menülere geçiş
+#### 2.3.2.1 Ana Menü ve Alt Menülere Geçiş
 Sol menüde ana konu başlıkları bulunur.Öğrenmek istediğiniz konuya tıkladığınızda alt konu başlıklarını içeren bir menü açılır.
 
 ![asdfag](https://user-images.githubusercontent.com/56628866/141476230-f4a94132-3223-4473-9a70-25c809bc04de.png)
@@ -176,13 +176,37 @@ Konu başlığının yanında bulunan \'+\' butonuna tıkladığınızda alt men
 
 ![asdfag](https://user-images.githubusercontent.com/56628866/141477189-a58dd3c4-450c-4ad3-bdbe-5b7a27b905e2.png)
 
-#### 2.3.2.2 Sürükle-Bırak Kod blokları
+#### 2.3.2.2 Sürükle-Bırak Kod Blokları
 
 Öğrenmek istediğiniz konu başlığının alt menülerinde konuyla ilgili örnek kodlara ulaşabilirsiniz. istediğiniz koda basılı tutup kod penceresine sürüklerseniz örnekteki hazır kod bloğunu görebilirsiniz.
 
 ![asdfag](https://user-images.githubusercontent.com/56628866/141477797-7090a6a6-37d7-4065-b689-3a392ceabd31.png)
 
 ![asdfag](https://user-images.githubusercontent.com/56628866/141477847-38d416f8-3c2f-4843-ba82-3998fcb9ac20.png)
+
+#### 2.3.2.3 Menü Öğelerinde Yardım İkonu
+
+Detaylı bilgi almak istediğiniz konu başlığının yanında bulunan yardım ikonuna tıklayarak ilgili konu için hazırlanmış bir konu anlatımına ulaşabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141769703-bf2b9551-937d-4f35-a80a-6f3cd5823875.png)
+
+### 2.3.3 Sohbet Robotu
+
+Sohbet robotu editörü kullanırken size yardımcı olabilecek bir asistandır. Python dili ile ilgili sorular sorup cevap alabilirsiniz.
+
+#### 2.3.3.1 Sohbet robotu penceresini açmak ve kapatmak
+
+Editörün sağ kenarında bulunan gri alana tıklayarak sohbet robotu penceresini açabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141770590-f0e4e6c6-9faf-4a88-9e41-d26151c9f141.png)
+
+Sohbet robotu penceresinin sağ üst köşesinde bulunan ok işaretine tıklayarak pencereyi kapatabilirsiniz.
+
+![asdfag](https://user-images.githubusercontent.com/56628866/141770926-e06d55a7-a05a-41d6-9b83-da2cc9684b7e.png)
+
+
+
+
 
 
 
