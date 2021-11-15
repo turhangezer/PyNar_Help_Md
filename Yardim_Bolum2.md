@@ -272,7 +272,7 @@ Yapıştır işlemi \'CTRL\' ve \'v\' tuşlarına aynı anda basılarak yapılı
 
 Geri Al işlemi \'CTRL\' ve \'z\' tuşlarına aynı anda basılarak yapılır. Yapılan değişiklikleri sondan başlayarak adım adım geri alır. Örnekte 7. satıra yapıştırılan bir metin ctrl+z ile geri alınıyor.
 
-![image](https://user-images.githubusercontent.com/56628866/141799099-2097fec6-e8f1-4083-8a12-2c66cb9ed7fb.png)
+![image](https://user-images.githubusercontent.com/56628866/141801359-c9e94502-fdb0-45a2-961f-d4bed695837f.png)
 
 ![image](https://user-images.githubusercontent.com/56628866/141799197-f895ddf0-624c-4239-9dd1-8d7bdf673718.png)
 
