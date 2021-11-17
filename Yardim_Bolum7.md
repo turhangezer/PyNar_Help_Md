@@ -85,11 +85,19 @@ Değişikliği yaptıktan sonra \'Tamam\'a tklayın.
   
 ![image](https://user-images.githubusercontent.com/56628866/142204097-18dd3f48-50a8-4705-8091-16c18d352519.png)
 
+Editörü yeniden açtığınızda değişiklileri görebilirsiniz.
 
+![image](https://user-images.githubusercontent.com/56628866/142211565-fdf6c948-d30e-476a-85e8-bca51e226935.png)
 
+**Önce**
 
+![image](https://user-images.githubusercontent.com/56628866/142212321-632a3464-4120-4998-8536-6816a050c656.png)
 
+**Sonra**
 
+![image](https://user-images.githubusercontent.com/56628866/142212100-103dcb60-89b7-4d46-a661-6a5ce0c9ea4f.png)
+
+Tab boşluğu arttırıldı.
 
 
 
