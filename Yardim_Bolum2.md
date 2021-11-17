@@ -154,6 +154,8 @@ Değiştirmek istediğiniz alanın yanında bulunan değiştir butonuna tıkland
 
 **Paket Yöneticisi** butonuna tıklandığında python dilinde içinde hazır fonksiyonlar bulunduran paketleri bilgisayarınıza kurabilirsiniz ve bilgisayarınızda kurulu olan paketleri görebilirsiniz.
 
+![139532096-74f54990-8b87-41ad-88c6-9a36899318d1](https://user-images.githubusercontent.com/56628866/142197811-c590b360-eb2a-4614-9ea7-f3b2cb5addd6.png)
+
 ![asdfag](https://user-images.githubusercontent.com/56628866/141473258-16e46fdb-5634-4d39-a7d1-1da68b83a278.png)
 
 Kurmak istediğiniz paketin ismini yazıp \'PyPl'dan Paket Bul\' butonuna basın. Paket bulunduktan sonra \'kur\' butonuna basın. Kurulum sorunsuz bir şekilde gerçekleştiğinde indirme başarılı ekranı karşınıza gelecektir.
