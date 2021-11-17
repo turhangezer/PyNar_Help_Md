@@ -30,16 +30,31 @@ Kurulum bittiğinde İndirme başarılı yazan bir pencere çıkacaktır.
 
 Paket Kullanıma hazır.
 
+## 5.2 Paket kaldırma
 
+**Örnek: AppJar paketinin kaldırılması**
 
+Ayarlar sekmesi altındaki kutu ikonuna tıklayarak Paket Yöneticisi açılır.
 
+![139532096-74f54990-8b87-41ad-88c6-9a36899318d1](https://user-images.githubusercontent.com/56628866/142197857-48387968-c820-4a09-9fb0-31f61e9179e6.png)
 
+Paket Listesi altında bilgisayarınızda bulunan paketleri görebilirsiniz.
 
+![image](https://user-images.githubusercontent.com/56628866/142199199-11d967c1-ebaa-44a4-8604-830f1aea65d7.png)
 
+AppJar ismini paket listesinden buluyoruz.
 
+![image](https://user-images.githubusercontent.com/56628866/142199301-cfbf6e0a-aed7-4411-ac65-94a8368d0e83.png)
 
+Kaldır butonuna tıklayarak kaldırma işlemini başlatınız.
 
+![image](https://user-images.githubusercontent.com/56628866/142199414-fdd7b297-ffad-4fc4-92c9-f9f531a7a5d2.png)
 
+Kaldırma işlemi yapılırken bir süre bekleyiniz. Kaldırma işlemi bittiğinde bir mesaj kutusu ile uyarılacaksınız.
+
+![image](https://user-images.githubusercontent.com/56628866/142199503-d2b69961-4b58-45f6-b8e3-4591751928a7.png)
+
+Paket kaldırıldı.
 
 
 
