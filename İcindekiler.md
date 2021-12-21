@@ -66,6 +66,8 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;3.2 E-posta doğrulama
 
+### &nbsp;&nbsp;&nbsp;&nbsp;3.3 Okul ve öğretmen bilgisi düzenleme
+
 ## 4. Pynar Bulut İşlemleri
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;4.1 Buluta Dosya Yükleme
