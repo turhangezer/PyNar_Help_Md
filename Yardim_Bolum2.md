@@ -164,6 +164,46 @@ Kurmak istediğiniz paketin ismini yazıp \'PyPl'dan Paket Bul\' butonuna basın
 
 
 #### 2.3.1.3 Bulut Sekmesi
+
+Bulut işlemleri, kullanıcı adınızı ve şifrenizi kullanarak farklı cihazlardan da kendi dosyalarınıza erişmenizi sağlayan, Öğretmeninize dosya göndermenizi sağlayan bir sistemdir. Bu özellikten yararlanmak için giriş yapmış olmanız gerekmektedir.
+
+**Buluta gönder** butonuna tıkladığınızda o anda açık olan dosyayı buluta kaydeder.
+
+![image](https://user-images.githubusercontent.com/56628866/146897666-0759fdbb-f3fa-4fa1-9569-216d3b18a2fa.png)
+
+dosyanın ismini girin ve \'tamam\'a tıklayın.
+
+![image](https://user-images.githubusercontent.com/56628866/146901090-79427f7f-fce5-452b-bcda-4c31f804119c.png)
+
+İşlem tamamlandı.
+
+![image](https://user-images.githubusercontent.com/56628866/146901280-11239b14-5bd0-4543-a640-5321c224fb26.png)
+
+**Buluttan indir** butonuna tıkladığınızda bulutunuzda bulunan dosyaların bir listesi açılır.
+
+![image](https://user-images.githubusercontent.com/56628866/146901604-64d44681-2dfb-4f86-a270-3b9dd6227888.png)
+
+İstediğiniz dosyayı editörde açabilir ya da buluttan silebilirsiniz.
+
+![image](https://user-images.githubusercontent.com/56628866/146901644-c0533b22-d005-41b1-baf0-8ab569d6e0e8.png)
+
+İndirmek istediğiniz dosyayı seçip \'Dosyayı Aç\'a tıkladığınızda dosya Pynarkutu dizinine kaydedilir.
+
+![image](https://user-images.githubusercontent.com/56628866/146901745-f4333b35-0c92-4694-9d0b-168750974d9c.png)
+
+**Öğretmene Gönder** butonuna tıkladığınızda pencerenizde açık olan kod dosyası sistemde kayıtlı olan öğretmeninize gönderilir.
+
+![image](https://user-images.githubusercontent.com/56628866/146902559-2c1ed029-160d-4d2c-aa3e-7575a6e18f54.png)
+
+![image](https://user-images.githubusercontent.com/56628866/146902824-b3048468-01c2-465f-bb0b-8fe50c487d5a.png)
+
+**Pynar Kutu** butonuna tıkladığınızda buluttan indirdiğiniz dosyaların kaydedildiği dizine erişirsiniz. Bu dizin buluttan dosya indirdiğinizde belgelerim klasörü içinde otomatik olarak oluşturulur.
+
+![image](https://user-images.githubusercontent.com/56628866/146903236-d9f60d01-d7ef-4b50-85b5-4ee2e07842be.png)
+
+![image](https://user-images.githubusercontent.com/56628866/146905164-24692b41-ce46-40c3-bf69-ca983610651f.png)
+
+
 #### 2.3.1.4 Yardım Sekmesi
 
 
