@@ -68,7 +68,7 @@
 
 ## 4. Pynar Bulut İşlemleri
 
-### &nbsp;&nbsp;&nbsp;&nbsp;4.1 Buluta Dosya Dönderme
+### &nbsp;&nbsp;&nbsp;&nbsp;4.1 Buluta Dosya Yükleme
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;4.2 Buluttan Dosya indirme
 
