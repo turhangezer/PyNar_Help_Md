@@ -114,15 +114,24 @@ Pynar Editör Windows versiyonunun içinde isteğe bağlı olarak Python 3.X sü
 
 ### Linux
 
+1. Linux makinenizin terminalini açın. Kullandığınız debian sürümüne göre ufak farklılıklar gösterebilir, Pardus sürümü kullanıcıları için ekranın sol altında bulunan Pardus ikonuna tıklayarak Uçbirim Öykünücüsü adı altında terminale ulaşabilirsiniz.
+
+![uçbirimöykücüsü](https://user-images.githubusercontent.com/56628866/147659910-4bd550ad-c3f0-4ed9-bb0a-3ae16d29d34a.png)
+
+![terminal](https://user-images.githubusercontent.com/56628866/147660248-4d50610d-01f2-4c02-8d60-d9758960ec74.png)
 
 
+2. Terminale \'sudo apt-get --purge remove program\' komutunu girin.
 
+![pynaruninstall](https://user-images.githubusercontent.com/56628866/147660166-3e89d808-c2d0-4e9e-aa07-7b74aea63211.png)
 
+3. İşlemi onaylamak için Süperkullanıcı şifrenizi giriniz. Bu şifre işletim sistemi kurulurken belirlediğiniz şifredir.
 
+![şifregir](https://user-images.githubusercontent.com/56628866/147660280-006f3a90-797c-4a1e-bd5f-fefcafa4a3f7.png)
 
+4. Devam etmek istiyor musunuz? sorusunu gördüğünüzde önce \'E\'ye tıklayın ardından \'Enter\'a tıklayın. Pynar sisteminizden kaldırılacaktır.
 
-
-
+![evethayır](https://user-images.githubusercontent.com/56628866/147660373-e1320d04-5cf1-4097-923c-cfd1d974b573.png)
 
 
 
