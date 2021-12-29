@@ -121,7 +121,7 @@ Pynar Editör Windows versiyonunun içinde isteğe bağlı olarak Python 3.X sü
 ![terminal](https://user-images.githubusercontent.com/56628866/147660248-4d50610d-01f2-4c02-8d60-d9758960ec74.png)
 
 
-2. Terminale \'sudo apt-get --purge remove program\' komutunu girin.
+2. Terminale \'sudo apt-get --purge remove pynar\' komutunu girin.
 
 ![pynaruninstall](https://user-images.githubusercontent.com/56628866/147660166-3e89d808-c2d0-4e9e-aa07-7b74aea63211.png)
 
