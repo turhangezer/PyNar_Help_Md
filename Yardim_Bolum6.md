@@ -4,17 +4,17 @@
 
 Hatalı bir kodu çalıştırmanız durumunda sohbet robotu size kodunuzda kaç hata olduğunu söyleyecektir. Ekranın alt kısmındaki pencerede ise hatanın ne olduğunu ve kaçıncı satırda olduğu görebilirsiniz.
 
-![image](https://user-images.githubusercontent.com/56628866/144204140-167aac34-afae-4ebc-9555-2fc6b7863a59.png)
+![image](https://user-images.githubusercontent.com/56628866/147847745-a5be5c1c-9202-49f5-b12c-0b2c3bc4e576.png)
 
 ## 6.2 Sohbet robotuyla etkileşerek kod hata düzeltmesi
 
 Eğer sohbet robotunun yardım almak ister misiniz? sorusuna evet cevabını verirseniz robot size bir çözüm önerisinde bulunacaktır.
 
-![image](https://user-images.githubusercontent.com/56628866/144204531-df9188ba-ad7e-4375-a344-54fb4e93f48a.png)
+![image](https://user-images.githubusercontent.com/56628866/147847778-a79ca778-33d7-4328-9bc3-4804c0b84369.png)
 
 Sohbet robotunun söylediği şekilde kodu değiştirdikten sonra tekrar çalıştırıp çözümü deneyebilirsiniz.
 
-![image](https://user-images.githubusercontent.com/56628866/144204696-a3d7bc0e-06f7-4fa0-a9db-940f57707cdc.png)
+![image](https://user-images.githubusercontent.com/56628866/147847848-63489cf0-de73-4373-b2a4-f166205a07d4.png)
 
 Program çalıştı.
 
