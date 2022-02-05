@@ -60,6 +60,27 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.4. Yorum Satırı haline getir (Ctrl+K)
 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.5. Yeni program (Ctrl+N)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.6. Program Aç (Ctrl+O)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.7. Kaydet (Ctrl+S)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.8. Farklı Kaydet (Ctrl+Shift+S)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.9. Yazdır (Ctrl+P)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.10. İleri al (Ctrl+Shift+Z)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.11. Yakınlaştır (Ctrl+\'+\')
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.12. Uzaklaştır (Ctrl+\'-\')
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.13. Dosya geçmişi (Ctrl+H)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.14. Bul ve Değiştir (Ctrl+F)
+
+
 ## 3.Pynar Editörde Oturum Açma
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;3.1 [www.pynar.org](www.pynar.org) portalına kayıt olma
