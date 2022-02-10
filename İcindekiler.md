@@ -80,6 +80,8 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.14. Bul ve Değiştir (Ctrl+F)
 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.15. Sekmeyi Kapat (Ctrl+W)
+
 
 ## 3.Pynar Editörde Oturum Açma
 
