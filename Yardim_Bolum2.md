@@ -422,7 +422,13 @@ Dosyanın ilk hali de son hali de bilgisayarda bulunuyor. Farklı kaydet işlemi
 
 ![image](https://user-images.githubusercontent.com/56628866/152639207-25754717-5d0c-4d77-85c2-622c377e38ff.png)
 
+### 2.4.15. Sekmeyi Kapat (Ctrl+W)
 
+\'CTRL\' ve \'W\' tuşlarına aynı anda basarak açık olan kod sekmesini kapatabilirsiniz.
+
+![image](https://user-images.githubusercontent.com/56628866/153445133-cdef10e2-4fba-4ed7-bd79-91c054ab5fb5.png)
+
+![image](https://user-images.githubusercontent.com/56628866/153445157-81c6f75e-970e-4567-a1af-fb84a19c0d6a.png)
 
 
 
